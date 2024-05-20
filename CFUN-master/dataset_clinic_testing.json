@@ -1,0 +1,404 @@
+{
+    "testing": [
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2468807_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2468807_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1090603_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1090603_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1182749_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1182749_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10151_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10151_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2059535_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2059535_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/7050_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/7050_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6747_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6747_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8653_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8653_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1067332_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1067332_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1178112_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1178112_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1165102_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1165102_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/5639_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/5639_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2027855_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2027855_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1047961_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1047961_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1182749_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1182749_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2462169_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2462169_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/7050_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/7050_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474480_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474480_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2492635_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2492635_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1066999_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1066999_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1076668_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1076668_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10539_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10539_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1165102_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1165102_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1068496_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1068496_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1135918_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1135918_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10967_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10967_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2452382_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2452382_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1113621_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1113621_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10848_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10848_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474911_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474911_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474911_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474911_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1162103_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1162103_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1039384_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1039384_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2027855_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2027855_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1115113_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1115113_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1066999_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1066999_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/4887_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/4887_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6747_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6747_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2452382_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2452382_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8653_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8653_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2436354_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2436354_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/5639_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/5639_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8870_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8870_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8870_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8870_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1039384_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1039384_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10539_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10539_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/12652_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/12652_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474881_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474881_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1059704_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1059704_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2468807_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2468807_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2490981_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2490981_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1986564_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1986564_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1115113_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1115113_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1059704_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1059704_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6909_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6909_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/12652_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/12652_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10848_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10848_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10452_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10452_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/5642_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/5642_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2363535_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2363535_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2471252_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2471252_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8395_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8395_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2471252_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2471252_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/5642_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/5642_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474881_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474881_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2059535_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2059535_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2492635_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2492635_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6965_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6965_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1068496_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1068496_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6832_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6832_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2462169_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2462169_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10157_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10157_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1986564_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1986564_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2490981_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2490981_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2436354_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2436354_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1178112_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1178112_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8395_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8395_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10967_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10967_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1135918_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1135918_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2363535_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2363535_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1076668_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1076668_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1229857_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1229857_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2474480_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2474480_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10157_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10157_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2462774_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2462774_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6965_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6965_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8861_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8861_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6832_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6832_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/6909_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/6909_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1162103_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1162103_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/4887_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/4887_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/2462774_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/2462774_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10452_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10452_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1067332_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1067332_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1113621_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1113621_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/8861_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/8861_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1090603_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1090603_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1229857_sa_ED_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1229857_sa_ED_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/1047961_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/1047961_sa_ES_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/clinic-object detection/train/10151_sa_ES_image.nii.gz",
+            "label": "/home/changbo/DATASET/clinic-object detection/train/10151_sa_ES_label.nii.gz"
+        }
+    ]
+}

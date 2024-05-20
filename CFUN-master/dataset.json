@@ -1,0 +1,1207 @@
+{
+    "training": [
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient016_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient016_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient026_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient026_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient081_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient081_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient039_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient039_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient028_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient028_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient036_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient036_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient065_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient065_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient069_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient069_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient029_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient029_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient043_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient043_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient080_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient080_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient062_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient062_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient096_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient096_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient063_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient063_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient009_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient009_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient010_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient010_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient040_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient040_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient035_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient035_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient028_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient028_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient057_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient057_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient057_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient057_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient086_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient086_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient013_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient013_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient067_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient067_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient004_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient004_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient061_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient061_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient045_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient045_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient020_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient020_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient040_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient040_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient001_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient001_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient055_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient055_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient015_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient015_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient073_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient073_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient076_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient076_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient051_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient051_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient054_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient054_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient079_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient079_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient022_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient022_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient061_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient061_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient023_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient023_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient007_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient007_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient010_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient010_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient034_frame16_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient034_frame16_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient008_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient008_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient005_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient005_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient011_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient011_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient024_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient024_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient093_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient093_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient092_frame06_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient092_frame06_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient099_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient099_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient097_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient097_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient049_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient049_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient052_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient052_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient067_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient067_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient059_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient059_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient089_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient089_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient055_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient055_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient012_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient012_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient071_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient071_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient082_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient082_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient051_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient051_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient075_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient075_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient031_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient031_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient009_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient009_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient083_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient083_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient068_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient068_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient094_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient094_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient018_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient018_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient085_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient085_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient060_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient060_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient069_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient069_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient044_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient044_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient084_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient084_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient085_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient085_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient077_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient077_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient021_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient021_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient066_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient066_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient034_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient034_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient066_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient066_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient098_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient098_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient038_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient038_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient023_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient023_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient019_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient019_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient037_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient037_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient087_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient087_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient080_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient080_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient025_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient025_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient063_frame16_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient063_frame16_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient097_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient097_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient004_frame15_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient004_frame15_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient071_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient071_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient075_frame06_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient075_frame06_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient048_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient048_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient056_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient056_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient074_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient074_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient017_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient017_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient050_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient050_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient038_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient038_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient053_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient053_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient095_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient095_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient093_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient093_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient088_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient088_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient048_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient048_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient056_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient056_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient064_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient064_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient100_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient100_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient091_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient091_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient025_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient025_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient042_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient042_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient083_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient083_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient065_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient065_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient072_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient072_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient095_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient095_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient087_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient087_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient100_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient100_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient032_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient032_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient090_frame04_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient090_frame04_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient039_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient039_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient049_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient049_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient099_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient099_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient022_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient022_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient026_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient026_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient035_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient035_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient060_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient060_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient003_frame15_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient003_frame15_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient047_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient047_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient015_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient015_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient053_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient053_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient030_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient030_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient081_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient081_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient084_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient084_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient091_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient091_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient086_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient086_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient012_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient012_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient020_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient020_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient033_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient033_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient032_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient032_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient027_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient027_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient078_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient078_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient030_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient030_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient006_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient006_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient002_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient002_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient041_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient041_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient089_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient089_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient096_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient096_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient021_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient021_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient070_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient070_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient074_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient074_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient005_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient005_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient014_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient014_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient014_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient014_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient058_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient058_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient016_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient016_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient033_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient033_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient068_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient068_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient019_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient019_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient003_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient003_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient029_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient029_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient047_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient047_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient017_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient017_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient046_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient046_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient076_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient076_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient078_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient078_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient043_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient043_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient036_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient036_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient001_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient001_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient072_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient072_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient092_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient092_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient058_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient058_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient046_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient046_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient045_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient045_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient024_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient024_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient070_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient070_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient090_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient090_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient002_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient002_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient079_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient079_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient013_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient013_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient073_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient073_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient052_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient052_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient042_frame16_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient042_frame16_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient088_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient088_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient044_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient044_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient037_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient037_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient041_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient041_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient006_frame16_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient006_frame16_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient062_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient062_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient059_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient059_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient098_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient098_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient054_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient054_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient011_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient011_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient077_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient077_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient050_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient050_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient031_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient031_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient094_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient094_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient027_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient027_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient082_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient082_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient007_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient007_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient018_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient018_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient008_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient008_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/training/patient064_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/training/patient064_frame01_label.nii.gz"
+        }
+    ],
+
+"testing": [
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient133_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient133_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient123_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient123_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient142_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient142_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient141_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient141_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient129_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient129_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient138_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient138_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient147_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient147_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient113_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient113_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient135_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient135_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient130_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient130_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient145_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient145_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient120_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient120_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient115_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient115_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient121_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient121_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient132_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient132_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient134_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient134_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient109_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient109_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient149_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient149_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient108_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient108_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient130_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient130_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient146_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient146_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient139_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient139_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient107_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient107_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient127_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient127_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient138_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient138_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient148_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient148_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient101_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient101_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient101_frame14_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient101_frame14_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient143_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient143_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient119_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient119_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient112_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient112_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient148_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient148_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient107_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient107_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient132_frame15_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient132_frame15_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient112_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient112_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient129_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient129_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient110_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient110_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient118_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient118_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient122_frame06_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient122_frame06_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient114_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient114_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient140_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient140_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient137_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient137_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient142_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient142_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient144_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient144_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient125_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient125_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient150_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient150_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient106_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient106_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient126_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient126_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient111_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient111_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient117_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient117_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient146_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient146_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient110_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient110_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient128_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient128_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient141_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient141_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient131_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient131_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient103_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient103_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient123_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient123_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient118_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient118_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient103_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient103_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient143_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient143_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient124_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient124_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient145_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient145_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient135_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient135_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient108_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient108_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient104_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient104_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient139_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient139_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient124_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient124_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient144_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient144_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient137_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient137_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient122_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient122_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient149_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient149_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient120_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient120_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient105_frame10_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient105_frame10_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient125_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient125_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient121_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient121_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient116_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient116_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient104_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient104_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient115_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient115_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient131_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient131_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient117_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient117_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient109_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient109_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient102_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient102_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient105_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient105_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient133_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient133_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient134_frame15_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient134_frame15_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient136_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient136_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient128_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient128_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient116_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient116_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient102_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient102_frame13_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient111_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient111_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient150_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient150_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient140_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient140_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient119_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient119_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient127_frame07_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient127_frame07_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient136_frame12_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient136_frame12_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient114_frame11_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient114_frame11_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient147_frame09_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient147_frame09_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient113_frame08_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient113_frame08_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient126_frame01_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient126_frame01_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/ACDC_object_detection/testing/patient106_frame13_image.nii.gz",
+            "label": "/home/changbo/DATASET/ACDC_object_detection/testing/patient106_frame13_label.nii.gz"
+        }
+    ]
+}

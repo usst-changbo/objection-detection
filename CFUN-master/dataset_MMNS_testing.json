@@ -1,0 +1,1204 @@
+{
+    "testing": [
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F5I9Q2_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F5I9Q2_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2M7W4_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2M7W4_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J6P5T8_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J6P5T8_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C4S8W9_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C4S8W9_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B4O3V3_0006_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B4O3V3_0006_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2O2S6_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2O2S6_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7D9L8_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7D9L8_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1O8Z3_0010_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1O8Z3_0010_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D9L1Z3_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D9L1Z3_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F1F3I6_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F1F3I6_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F2H5S1_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F2H5S1_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J6P5T8_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J6P5T8_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K5L2U3_0007_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K5L2U3_0007_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6B5G9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6B5G9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E4M2Q7_0000_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E4M2Q7_0000_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H3U1Y1_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H3U1Y1_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B6D0U7_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B6D0U7_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H5N0P0_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H5N0P0_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C8P3S7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C8P3S7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/T2T9Z9_0013_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/T2T9Z9_0013_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1I3W0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1I3W0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M4P7Q6_0002_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M4P7Q6_0002_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2G5R2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2G5R2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G5P4U3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G5P4U3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4B5U4_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4B5U4_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K5P0Y1_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K5P0Y1_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3O1S0_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3O1S0_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/W5Z4Z8_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/W5Z4Z8_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E0M3U7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E0M3U7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A8C9U8_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A8C9U8_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J6K6P5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J6K6P5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1D0Q7_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1D0Q7_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M2P1R1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M2P1R1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C4S8W9_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C4S8W9_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1W2Y1_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1W2Y1_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A3H1O5_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A3H1O5_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9E3G9_0023_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9E3G9_0023_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H7N4V9_0012_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H7N4V9_0012_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B8H5H6_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B8H5H6_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J1T9Y1_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J1T9Y1_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F5I9Q2_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F5I9Q2_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B8H5H6_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B8H5H6_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6B5G9_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6B5G9_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A5E0T8_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A5E0T8_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L1Q9V8_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L1Q9V8_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C3I2K3_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C3I2K3_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1E9Q1_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1E9Q1_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C0K1P0_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C0K1P0_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1D9Z7_0022_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1D9Z7_0022_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/T9U9W2_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/T9U9W2_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P6U0Y0_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P6U0Y0_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G4S9U3_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G4S9U3_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1D9Z7_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1D9Z7_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P0S5Y0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P0S5Y0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M0P8U8_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M0P8U8_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4J4S4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4J4S4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2F4K5_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2F4K5_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3O9U9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3O9U9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9J5Q7_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9J5Q7_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J6K6P5_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J6K6P5_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E3T0Z2_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E3T0Z2_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I6N3P3_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I6N3P3_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N5S7Y1_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N5S7Y1_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F8N2S1_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F8N2S1_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C8P3S7_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C8P3S7_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3D0N1_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3D0N1_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7D9L8_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7D9L8_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G0H4J3_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G0H4J3_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E0O0S0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E0O0S0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2J0K3_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2J0K3_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2L5P7_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2L5P7_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2C2Z7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2C2Z7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/T9U9W2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/T9U9W2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C0S7W0_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C0S7W0_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G1N6S7_0012_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G1N6S7_0012_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C5M4S2_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C5M4S2_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7G0P5_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7G0P5_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F0J2R8_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F0J2R8_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1M1S6_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1M1S6_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B0N3W8_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B0N3W8_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3F9H9_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3F9H9_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J4J9W6_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J4J9W6_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F3G5K5_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F3G5K5_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4B5U4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4B5U4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A0S9V9_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A0S9V9_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3D4Y5_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3D4Y5_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L5Q6T7_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L5Q6T7_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1J5P6_0013_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1J5P6_0013_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G9L0O9_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G9L0O9_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L1Q1Z5_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L1Q1Z5_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7M7P8_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7M7P8_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H6I0I6_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H6I0I6_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9J5Q7_0007_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9J5Q7_0007_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B0I2Z0_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B0I2Z0_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C0S7W0_0007_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C0S7W0_0007_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2J1M5_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2J1M5_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C3I2K3_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C3I2K3_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2D9M2_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2D9M2_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K2S1U6_0012_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K2S1U6_0012_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F3G5K5_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F3G5K5_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E5E6O8_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E5E6O8_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G9L0O9_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G9L0O9_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E5E6O8_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E5E6O8_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A3B7E5_0012_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A3B7E5_0012_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q7V1Y5_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q7V1Y5_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7M7P8_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7M7P8_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2M7W4_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2M7W4_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E4W8Z7_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E4W8Z7_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I6N3P3_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I6N3P3_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M2P1R1_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M2P1R1_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L1Q1Z5_0015_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L1Q1Z5_0015_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L5Q6T7_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L5Q6T7_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/O0S9V7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/O0S9V7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M0P8U8_0000_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M0P8U8_0000_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9L1W5_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9L1W5_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K4T7Y0_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K4T7Y0_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D6H6O2_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D6H6O2_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N8N9U0_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N8N9U0_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2G5R2_0007_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2G5R2_0007_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L4Q2U3_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L4Q2U3_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I0J5U3_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I0J5U3_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G0I6P3_0012_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G0I6P3_0012_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1J5P6_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1J5P6_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/W5Z4Z8_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/W5Z4Z8_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1M5Y6_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1M5Y6_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1M1S6_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1M1S6_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P6U0Y0_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P6U0Y0_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2D9O2_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2D9O2_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9E3G9_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9E3G9_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N8N9U0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N8N9U0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q3R9W7_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q3R9W7_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2D9O2_0013_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2D9O2_0013_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H7N4V9_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H7N4V9_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/T2T9Z9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/T2T9Z9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M4P7Q6_0013_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M4P7Q6_0013_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K5P0Y1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K5P0Y1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K2S1U6_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K2S1U6_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N7V9W9_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N7V9W9_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A8C9U8_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A8C9U8_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D4N6W6_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D4N6W6_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D4N6W6_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D4N6W6_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6D5F9_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6D5F9_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P9S7W2_0023_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P9S7W2_0023_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C1G5Q0_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C1G5Q0_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/R4Y1Z9_0007_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/R4Y1Z9_0007_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4U9V5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4U9V5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J8R5W2_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J8R5W2_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C4R8T7_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C4R8T7_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I2K2Y8_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I2K2Y8_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C0K1P0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C0K1P0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D0R0R9_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D0R0R9_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/R4Y1Z9_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/R4Y1Z9_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D8E4F4_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D8E4F4_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2F4K5_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2F4K5_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E5F5V7_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E5F5V7_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1J5W8_0003_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1J5W8_0003_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J1T9Y1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J1T9Y1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3D4Y5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3D4Y5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G4L8Z7_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G4L8Z7_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2M6P8_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2M6P8_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G0H4J3_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G0H4J3_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F4K3S1_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F4K3S1_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E0M3U7_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E0M3U7_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E5F5V7_0000_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E5F5V7_0000_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B9O1Q0_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B9O1Q0_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B6D0U7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B6D0U7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K5L2U3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K5L2U3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G1N6S7_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G1N6S7_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G7I5V7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G7I5V7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A3B7E5_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A3B7E5_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J4J9W6_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J4J9W6_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2J0K3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2J0K3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B0N3W8_0015_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B0N3W8_0015_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9V4Z8_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9V4Z8_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L4Q2U3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L4Q2U3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P0S5Y0_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P0S5Y0_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G5P4U3_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G5P4U3_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H4I2T8_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H4I2T8_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/O3R8Y5_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/O3R8Y5_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7O4T6_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7O4T6_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P5R1Y4_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P5R1Y4_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E4M2Q7_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E4M2Q7_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C4R8T7_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C4R8T7_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H7I4J3_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H7I4J3_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9C5P4_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9C5P4_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C1K8P5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C1K8P5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M1R4S1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M1R4S1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C1K8P5_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C1K8P5_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3O1S0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3O1S0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3F9H9_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3F9H9_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1W2Y1_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1W2Y1_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G4S9U3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G4S9U3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A3H1O5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A3H1O5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F0J2R8_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F0J2R8_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G8N2U5_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G8N2U5_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1L4Q9_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1L4Q9_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E3T0Z2_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E3T0Z2_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A2N8V0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A2N8V0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H7I4J3_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H7I4J3_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D1L4Q9_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D1L4Q9_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9J8W7_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9J8W7_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/S1S3Z7_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/S1S3Z7_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B8J7R4_0012_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B8J7R4_0012_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A5E0T8_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A5E0T8_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1J5W8_0015_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1J5W8_0015_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q0U0V5_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q0U0V5_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3F3O5_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3F3O5_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3O9U9_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3O9U9_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H3U1Y1_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H3U1Y1_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F2H5S1_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F2H5S1_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A8E1F4_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A8E1F4_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G8N2U5_0023_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G8N2U5_0023_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1E9Q1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1E9Q1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9H1U4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9H1U4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/S1S3Z7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/S1S3Z7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D0H9I4_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D0H9I4_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B9E0Q1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B9E0Q1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2O2S6_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2O2S6_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1M5Y6_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1M5Y6_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9V4Z8_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9V4Z8_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J9L6N9_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J9L6N9_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J9L6N9_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J9L6N9_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C1G5Q0_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C1G5Q0_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A8E1F4_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A8E1F4_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I0J5U3_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I0J5U3_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1D0Q7_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1D0Q7_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D4M3Q2_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D4M3Q2_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F1F3I6_0008_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F1F3I6_0008_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2L5P7_0012_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2L5P7_0012_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A1O8Z3_0023_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A1O8Z3_0023_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6D5F9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6D5F9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7O4T6_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7O4T6_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D3F3O5_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D3F3O5_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A7G0P5_0028_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A7G0P5_0028_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B9E0Q1_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B9E0Q1_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B8J7R4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B8J7R4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N7V9W9_0007_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N7V9W9_0007_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6M1Q7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6M1Q7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P9S7W2_0010_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P9S7W2_0010_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D9L1Z3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D9L1Z3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9L1W5_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9L1W5_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4J4S4_0007_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4J4S4_0007_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C5M4S2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C5M4S2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/L1Q9V8_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/L1Q9V8_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B9O1Q0_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B9O1Q0_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3P3R1_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3P3R1_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C6J5P1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C6J5P1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G2J1M5_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G2J1M5_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D0R0R9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D0R0R9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H4I2T8_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H4I2T8_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q7V1Y5_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q7V1Y5_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D8E4F4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D8E4F4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H0K3Q4_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H0K3Q4_0024_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E0O0S0_0011_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E0O0S0_0011_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A4U9V5_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A4U9V5_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A2C0I1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A2C0I1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D4M3Q2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D4M3Q2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/O3R8Y5_0000_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/O3R8Y5_0000_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N1P8Q9_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N1P8Q9_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H1I3W0_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H1I3W0_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/K4T7Y0_0024_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/K4T7Y0_0024_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A0S9V9_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A0S9V9_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I7T3U1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I7T3U1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q0U0V5_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q0U0V5_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3P3R1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3P3R1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2D9M2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2D9M2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H5N0P0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H5N0P0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G7I5V7_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G7I5V7_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H0K3Q4_0009_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H0K3Q4_0009_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N1P8Q9_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N1P8Q9_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I2K2Y8_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I2K2Y8_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B2C2Z7_0008_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B2C2Z7_0008_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/P5R1Y4_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/P5R1Y4_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B3D0N1_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B3D0N1_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G0I6P3_0029_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G0I6P3_0029_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/G4L8Z7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/G4L8Z7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/M1R4S1_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/M1R4S1_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E4W8Z7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E4W8Z7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C6J5P1_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C6J5P1_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A2C0I1_0007_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A2C0I1_0007_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/O0S9V7_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/O0S9V7_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/N5S7Y1_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/N5S7Y1_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9C5P4_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9C5P4_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/J8R5W2_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/J8R5W2_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A2N8V0_0009_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A2N8V0_0009_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A6M1Q7_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A6M1Q7_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/I7T3U1_0013_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/I7T3U1_0013_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B0I2Z0_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B0I2Z0_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D0H9I4_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D0H9I4_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/D6H6O2_0009_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/D6H6O2_0009_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F4K3S1_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F4K3S1_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9H1U4_0010_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9H1U4_0010_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9H2K7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9H2K7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/Q3R9W7_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/Q3R9W7_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/B4O3V3_0000_A_1_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/B4O3V3_0000_A_1_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/E9H2K7_0011_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/E9H2K7_0011_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/A9J8W7_0029_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/A9J8W7_0029_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/C2M6P8_0008_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/C2M6P8_0008_B_3_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/H6I0I6_0010_B_2_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/H6I0I6_0010_B_2_label.nii.gz"
+        },
+        {
+            "image": "/home/changbo/DATASET/MNMs-object detection/F8N2S1_0024_B_3_image.nii.gz",
+            "label": "/home/changbo/DATASET/MNMs-object detection/F8N2S1_0024_B_3_label.nii.gz"
+        }
+    ]
+}
